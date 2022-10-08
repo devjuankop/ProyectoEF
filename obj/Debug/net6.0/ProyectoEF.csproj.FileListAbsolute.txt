@@ -53,3 +53,5 @@ C:\Users\juanb\Source\Repos\ProyectoEF\obj\Debug\net6.0\refint\ProyectoEF.dll
 C:\Users\juanb\Source\Repos\ProyectoEF\obj\Debug\net6.0\ProyectoEF.pdb
 C:\Users\juanb\Source\Repos\ProyectoEF\obj\Debug\net6.0\ProyectoEF.genruntimeconfig.cache
 C:\Users\juanb\Source\Repos\ProyectoEF\obj\Debug\net6.0\ref\ProyectoEF.dll
+C:\Users\juanb\Source\Repos\ProyectoEF\bin\Debug\net6.0\Humanizer.dll
+C:\Users\juanb\Source\Repos\ProyectoEF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
